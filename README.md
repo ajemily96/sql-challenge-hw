@@ -8,7 +8,7 @@ When designing this database structure I categorized the tables into 3 groups.
 
 Each table is named with appropriate prefixes or suffixes with a name which reflects what is in the table. View the EDR [here](https://wustl.bootcampcontent.com/AEmily96/sql-challenge/blob/master/EmployeeSQL/Resources/ERD.PNG).
 
-![ERD](https://wustl.bootcampcontent.com/AEmily96/sql-challenge/blob/master/EmployeeSQL/Resources/ERD.PNG)
+![ERD](https://wustl.bootcampcontent.com/AEmily96/sql-challenge/raw/master/EmployeeSQL/Resources/ERD.PNG)
 
 I made and populated the tables in the following order:
 
